@@ -3,4 +3,4 @@ services:
   frontend:
     image: jet25/234-deploylab-frontend:latest
     ports:
-      - "8085:80"
+      - "9999:80"
